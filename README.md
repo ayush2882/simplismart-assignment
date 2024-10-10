@@ -5,7 +5,7 @@
 
 2. Prequisites for the assigment:
 
-	  ```python
+	  ```
 	  a) Minikube: A local Kubernetes cluster.
 	  b) kubectl: To interact with the cluster.
 	  c) Helm: Package manager for installing KEDA.
