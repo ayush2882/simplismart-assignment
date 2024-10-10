@@ -4,11 +4,11 @@
 
 2. Prequisites for the assigment:
 
-a) Minikube: A local Kubernetes cluster.
-b) kubectl: To interact with the cluster.
-c) Helm: Package manager for installing KEDA.
-4) Python 3.x: For running the script.
-5) Docker: For container image management. 
+  `a) Minikube: A local Kubernetes cluster.
+  b) kubectl: To interact with the cluster.
+  c) Helm: Package manager for installing KEDA.
+  4) Python 3.x: For running the script.
+  5) Docker: For container image management.`
 
 3. Ceated yaml files for deployment, service and hpa configuration.
 
